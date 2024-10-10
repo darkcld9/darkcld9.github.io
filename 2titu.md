@@ -1,5 +1,5 @@
 ---
 title: pagina
-parent: 
+parent: just the doc
 layout:home
 ---
