@@ -1,6 +1,5 @@
 ---
 title: marcas
-parent: marca
 layout: home
 nav_order: 2
 ---
