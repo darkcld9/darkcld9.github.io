@@ -2,7 +2,6 @@
 title: lorem
 layout: home
 nav_order: 3
-parent: pagina
 ---
 
 
